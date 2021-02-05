@@ -1,5 +1,8 @@
     # contentful-management.js
 
+# ############################
+# Patched Version -- zopa
+# ############################
 > JavaScript SDK for [Contentful's](https://www.contentful.com) Content Management API.
 
 [![npm](https://img.shields.io/npm/v/contentful-management.svg)](https://www.npmjs.com/package/contentful-management)
